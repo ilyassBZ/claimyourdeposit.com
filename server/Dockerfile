@@ -13,7 +13,7 @@ RUN npm install --omit=dev
 COPY . .
 
 # Expose port
-EXPOSE 3001
+EXPOSE 3003
 
 # Create directory for data
 RUN mkdir -p /app/data
