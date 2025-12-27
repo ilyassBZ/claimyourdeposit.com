@@ -13,7 +13,7 @@ export default function NewsletterForm({ variant = "default" }) {
     setStatus("");
 
     try {
-      const apiUrl = import.meta.env.VITE_API_URL || "http://localhost:3003";
+      const apiUrl = import.meta.env.VITE_API_URL || "http://135.125.191.63:3003";
       await axios.post(`${apiUrl}/subscribe`, { email });
       setStatus("success");
       setEmail("");
