@@ -13,7 +13,7 @@ export default function NewsletterForm({ variant = "default" }) {
     setStatus("");
 
     try {
-      const apiUrl = import.meta.env.VITE_API_URL || "http://localhost:3001";
+      const apiUrl = import.meta.env.VITE_API_URL || "http://localhost:3003";
       await axios.post(`${apiUrl}/subscribe`, { email });
       setStatus("success");
       setEmail("");
@@ -51,7 +51,7 @@ export default function NewsletterForm({ variant = "default" }) {
           <div className="status-message success">
             <p className="success-title">🎉 Perfect! You're on the waitlist!</p>
             <p className="referral-info">
-              We'll notify you as soon as we launch.<br/>
+              We'll notify you as soon as we launch.<br />
               Get ready to claim what's rightfully yours!
             </p>
           </div>
