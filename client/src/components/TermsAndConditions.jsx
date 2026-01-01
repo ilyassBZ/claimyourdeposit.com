@@ -70,7 +70,7 @@ export default function TermsAndConditions() {
           <ul>
             <li>Payments are charged automatically based on your plan</li>
             <li>Prices may change, with notice given in advance</li>
-            <li>Refund requests must be made within 7 days of purchase and may be denied if services were heavily used</li>
+            <li>Refund requests must be made within 14 days of purchase and may be denied if services were heavily used</li>
           </ul>
 
           <hr />
@@ -160,4 +160,5 @@ export default function TermsAndConditions() {
     </div>
   );
 }
+
 

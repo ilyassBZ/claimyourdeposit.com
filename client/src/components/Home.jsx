@@ -9,8 +9,8 @@ export default function Home() {
         <div className="hero-content">
           <h1>Get Your Deposit Back — With Proof.</h1>
           <p className="subheadline">
-            Document your rental from Day 1. Upload photos, track repairs, and store timestamped evidence. 
-            When you move out, generate a state-specific demand letter backed by your proof. 
+            Document your rental from Day 1. Upload photos, track repairs, and store timestamped evidence.
+            When you move out, generate a state-specific demand letter backed by your proof.
             Your landlord has lawyers — now you have documentation.
           </p>
           <NewsletterForm />
@@ -24,7 +24,7 @@ export default function Home() {
       <section className="section">
         <div className="container">
           <h2 className="section-title">Most Renters Lose Their Deposit</h2>
-          
+
           <ul className="pain-list">
             <li className="pain-item">No evidence from move-in? Landlord wins by default.</li>
             <li className="pain-item">Lost your photos? No case. No proof. No refund.</li>
@@ -40,7 +40,7 @@ export default function Home() {
           <p className="section-subtitle">
             Build your case from the moment you move in — not after it's too late
           </p>
-          
+
           <div className="ai-visual">
             <div className="ai-panel">
               <div className="ai-panel-header">📸 Move-In Day</div>
@@ -49,21 +49,21 @@ export default function Home() {
                   🏠 Upload timestamped photos
                 </div>
                 <div className="ai-label success">
-                  ✅ Stored & Organized<br/>
+                  ✅ Stored & Organized<br />
                   <span className="ai-label-detail">By room, date, issue type</span>
                 </div>
               </div>
             </div>
-            
+
             <div className="ai-arrow">→</div>
-            
+
             <div className="ai-panel">
               <div className="ai-panel-header">⚖️ Move-Out Letter</div>
               <div className="ai-panel-content">
                 <div className="ai-letter">
                   <p className="ai-letter-line">"Dear [Landlord Name],</p>
                   <p className="ai-letter-line highlighted">
-                    Per [State] law, the following deductions are improper. 
+                    Per [State] law, the following deductions are improper.
                     <strong>Evidence attached.</strong>
                   </p>
                   <p className="ai-letter-line">I request full deposit return within 14 days..."</p>
@@ -81,7 +81,7 @@ export default function Home() {
           <p className="section-subtitle">
             Document. Compare. Dispute. Win.
           </p>
-          
+
           <div className="steps-grid">
             <div className="step-card">
               <span className="step-number">1</span>
@@ -115,13 +115,13 @@ export default function Home() {
       </section>
 
       {/* The Subscription Pricing */}
-      <section className="section section-blue">
+      <section className="section section-blue" id="pricing">
         <div className="container">
           <h2 className="section-title">Protect Your Future Deposit with Today's Evidence</h2>
           <p className="section-subtitle">
             One subscription covers ONE home for a FULL year
           </p>
-          
+
           <div className="pricing-card">
             <p className="pricing-badge">📋 Year-Round Protection</p>
             <div className="price">
@@ -129,7 +129,7 @@ export default function Home() {
               <span className="price-period">/year</span>
             </div>
             <p className="pricing-detail">Per rental property</p>
-            
+
             <ul className="pricing-features">
               <li>📸 Move-in documentation</li>
               <li>🛠️ Repairs & issue tracking</li>
@@ -139,14 +139,14 @@ export default function Home() {
               <li>🔒 Secure cloud storage</li>
               <li>📊 90-day archive after cancellation</li>
             </ul>
-            
+
             <p className="pricing-urgency">💡 Each additional property: only $10/year</p>
           </div>
-          
+
           <div className="referral-box">
             <h3>🏘️ Multiple Properties?</h3>
             <p>
-              Managing 2+ rentals? Add extra properties for just $10/year each. 
+              Managing 2+ rentals? Add extra properties for just $10/year each.
               Perfect for renters with roommates tracking separate leases, or anyone with a second rental.
             </p>
           </div>
@@ -160,7 +160,7 @@ export default function Home() {
           <p className="section-subtitle">
             State-specific legal citations for 2025
           </p>
-          
+
           <div className="trust-badges">
             <div className="trust-badge">🇺🇸 50 States Covered</div>
             <div className="trust-badge">📊 2025 Laws Updated</div>
@@ -169,11 +169,11 @@ export default function Home() {
             <div className="trust-badge">📸 Unlimited Uploads</div>
             <div className="trust-badge">📬 Certified Mail Option</div>
           </div>
-          
+
           <div className="stat-highlight">
             <p className="stat-big">$4.2 Billion</p>
             <p className="stat-label">
-              kept by landlords in 2024.<br/>
+              kept by landlords in 2024.<br />
               <strong>Most renters lose because they have no proof.</strong>
             </p>
           </div>
@@ -199,8 +199,8 @@ export default function Home() {
             Join renters who document from Day 1
           </p>
           <p className="section-subtitle" style={{ marginTop: 0 }}>
-            📋 $40/year per property<br/>
-            🔒 Secure documentation all year<br/>
+            📋 $40/year per property<br />
+            🔒 Secure documentation all year<br />
             ⚖️ State-specific demand letters when you need them
           </p>
           <NewsletterForm variant="hero" />

@@ -2,6 +2,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Home from "./components/Home.jsx";
 import TermsAndConditions from "./components/TermsAndConditions.jsx";
 import PrivacyPolicy from "./components/PrivacyPolicy.jsx";
+import RefundPolicy from "./components/RefundPolicy.jsx";
 
 export default function App() {
   return (
@@ -11,6 +12,7 @@ export default function App() {
           <Route path="/" element={<Home />} />
           <Route path="/terms-and-conditions" element={<TermsAndConditions />} />
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+          <Route path="/refund-policy" element={<RefundPolicy />} />
         </Routes>
 
         {/* Footer */}
@@ -54,6 +56,17 @@ export default function App() {
                 }}
               >
                 Privacy Policy
+              </Link>
+              <span style={{ color: 'var(--red-400)' }}>•</span>
+              <Link 
+                to="/refund-policy" 
+                style={{ 
+                  color: 'var(--red-200)', 
+                  textDecoration: 'none',
+                  fontSize: '0.875rem'
+                }}
+              >
+                Refund Policy
               </Link>
             </div>
           </div>
