@@ -14,6 +14,14 @@ export default function TermsAndConditions() {
             If you do not agree, you must stop using the Service immediately.
           </p>
 
+          <div className="legal-entity-info">
+            <p><strong>Legal Entity:</strong></p>
+            <p>
+              <strong>Legal Name:</strong> Ilyass Bzitar<br />
+              <strong>Trading/Brand Name:</strong> ClaimYourDeposit
+            </p>
+          </div>
+
           <hr />
 
           <h2>1. The Service</h2>
@@ -146,6 +154,8 @@ export default function TermsAndConditions() {
           <h2>12. Contact</h2>
           <p>For support, billing and questions:</p>
           <p>
+            <strong>ClaimYourDeposit</strong><br />
+            Operated by: Ilyass Bzitar<br />
             📧 <a href="mailto:support@claimyourdeposit.com">support@claimyourdeposit.com</a><br />
             🌐 <a href="https://claimyourdeposit.com">https://claimyourdeposit.com</a>
           </p>

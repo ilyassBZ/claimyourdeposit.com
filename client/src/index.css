@@ -666,6 +666,22 @@ body {
   color: var(--red-900);
 }
 
+.legal-entity-info {
+  background: var(--gray-50);
+  border-left: 4px solid var(--red-600);
+  padding: 20px 24px;
+  margin: 32px 0;
+  border-radius: 8px;
+}
+
+.legal-entity-info p {
+  margin-bottom: 8px;
+}
+
+.legal-entity-info p:last-child {
+  margin-bottom: 0;
+}
+
 .legal-acceptance {
   text-align: center;
   font-size: 1.125rem;
