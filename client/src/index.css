@@ -378,8 +378,19 @@ body {
 
 .pricing-detail {
   font-size: 1.25rem;
-  margin-bottom: 32px;
+  margin-bottom: 8px;
   color: var(--red-100);
+}
+
+.pricing-trial {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--accent);
+  margin-bottom: 32px;
+  padding: 12px 20px;
+  background: rgba(245, 158, 11, 0.2);
+  border-radius: 8px;
+  display: inline-block;
 }
 
 .pricing-features {

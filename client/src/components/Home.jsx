@@ -123,12 +123,13 @@ export default function Home() {
           </p>
 
           <div className="pricing-card">
-            <p className="pricing-badge">📋 Year-Round Protection</p>
+            <p className="pricing-badge">🎁 7-Day Free Trial</p>
             <div className="price">
               <span className="price-main">$40</span>
               <span className="price-period">/year</span>
             </div>
             <p className="pricing-detail">Per rental property</p>
+            <p className="pricing-trial">Try it free for 7 days, then billed annually</p>
 
             <ul className="pricing-features">
               <li>📸 Move-in documentation</li>
@@ -196,10 +197,10 @@ export default function Home() {
         <div className="container">
           <h2 className="section-title">Ready to Protect Your Deposit?</h2>
           <p className="section-subtitle">
-            Join renters who document from Day 1
+            Start your 7-day free trial today
           </p>
           <p className="section-subtitle" style={{ marginTop: 0 }}>
-            📋 $40/year per property<br />
+            🎁 7 days free, then $40/year per property<br />
             🔒 Secure documentation all year<br />
             ⚖️ State-specific demand letters when you need them
           </p>

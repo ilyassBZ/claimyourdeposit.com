@@ -6,7 +6,7 @@ export default function FAQ() {
   const faqs = [
     {
       question: "How does the subscription work?",
-      answer: "$40/year covers ONE rental property with unlimited documentation, storage, and letter generation. Each additional property is $10/year. Cancel anytime, with 90-day archive access after cancellation."
+      answer: "Start with a 7-day free trial. After the trial period, you'll be charged $40/year for ONE rental property with unlimited documentation, storage, and letter generation. Each additional property is $10/year. Cancel anytime during or after the trial, with 90-day archive access after cancellation."
     },
     {
       question: "When should I start documenting?",
