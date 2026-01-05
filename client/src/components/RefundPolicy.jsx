@@ -3,83 +3,80 @@ export default function RefundPolicy() {
     <div className="legal-page">
       <div className="legal-container">
         <h1>Refund Policy</h1>
-        <p className="legal-updated"><em>Last updated: December 31, 2025</em></p>
+        <p className="legal-updated"><em>Last updated: January 5, 2026</em></p>
 
         <div className="legal-content">
           <p>
-            Thank you for subscribing to <strong>ClaimYourDeposit</strong>.
-          </p>
-          <p>
-            We want you to be confident when using our service. If you are not satisfied, you may request a refund under the conditions below.
+            Thank you for subscribing to <strong>ClaimYourDeposit</strong>. Our payments are processed by <strong>Paddle</strong>, our Merchant of Record. By using our service, you agree to both our terms and Paddle's Checkout Terms.
           </p>
 
           <hr />
 
-          <h2>Refund Eligibility</h2>
-          <p>You are eligible for a refund if:</p>
+          <h2>1. Right of Withdrawal (14-Day Guarantee)</h2>
+          <p>
+            As a consumer, you have the right to cancel your subscription and request a refund within <strong>14 days</strong> of your initial transaction without giving any reason, provided you have not yet fully utilized the service.
+          </p>
+
+          <hr />
+
+          <h2>2. Exceptions to Refunds</h2>
+          <p>
+            According to Paddle's terms and consumer law regarding Digital Content, your right to cancel and receive a refund expires immediately once:
+          </p>
           <ul>
-            <li>Your purchase was made within the last <strong>14 days</strong></li>
-            <li>You have <strong>not</strong> generated more than one (1) demand letter, or downloaded/exported multiple documents</li>
-            <li>You have <strong>not</strong> used the service to send mail to a landlord</li>
+            <li>You have started to download, stream, or otherwise acquire the digital products.</li>
+            <li>You have used the service to generate, export, or mail a document (as this constitutes "immediate performance" of the service).</li>
+            <li>The 14-day cancellation period has elapsed.</li>
           </ul>
           <p>
-            Once documents are generated or mailed, the service is considered <strong>used</strong> and may not qualify.
+            <strong>Note:</strong> In line with Paddle's policy, there are no refunds on unused portions of a subscription period once a renewal has processed.
           </p>
 
           <hr />
 
-          <h2>Non-Refundable Situations</h2>
-          <p>We generally cannot offer a refund if:</p>
+          <h2>3. How to Request a Refund</h2>
+          <p>
+            Since Paddle is the Merchant of Record, all refund requests are handled directly by them to ensure secure and efficient processing.
+          </p>
+          <p>
+            To request a refund, please contact Paddle's support team with your Order ID:
+          </p>
           <ul>
-            <li>The request is made <strong>after 14 days</strong></li>
-            <li>The subscription has already been <strong>used to create multiple letters</strong></li>
-            <li>The account has been used to <strong>store property data, photos, or documentation</strong></li>
-            <li>The user expected legal or attorney-level services (we do <strong>not</strong> provide legal advice)</li>
-            <li>The issue is caused by lack of response from a landlord or legal outcome (we cannot guarantee results)</li>
+            <li><strong>Online Assistant:</strong> <a href="https://paddle.net/" target="_blank" rel="noopener noreferrer">https://paddle.net/</a></li>
+            <li><strong>Email:</strong> <a href="mailto:help@paddle.com">help@paddle.com</a></li>
           </ul>
 
           <hr />
 
-          <h2>How to Request a Refund</h2>
+          <h2>4. Non-Refundable Situations</h2>
           <p>
-            All payments are securely processed by <strong>Paddle</strong>, our Merchant of Record.
+            Refunds are provided at the sole discretion of Paddle and may be refused if there is evidence of fraud, refund abuse, or manipulative behavior. We cannot offer refunds for:
           </p>
-          <p>To request a refund, please contact Paddle at:</p>
-          <p>
-            📩 <a href="mailto:help@paddle.com"><strong>help@paddle.com</strong></a><br />
-            OR<br />
-            🧾 <a href="https://paddle.net/" target="_blank" rel="noopener noreferrer"><strong>https://paddle.net/</strong></a>
-          </p>
-          <p>Include:</p>
           <ul>
-            <li>Your name</li>
-            <li>Purchase email</li>
-            <li>Order number</li>
+            <li>Lack of response from a landlord or unfavorable legal outcomes (we provide tools, not guaranteed results).</li>
+            <li>Requests based on the expectation of legal advice (ClaimYourDeposit is not a law firm).</li>
           </ul>
-          <p>
-            We will review all requests within <strong>5 business days</strong>.
-          </p>
 
           <hr />
 
-          <h2>Contact Us</h2>
-          <p>If you have questions before requesting a refund:</p>
+          <h2>5. Contact Us</h2>
+          <p>
+            If you have questions regarding the service before reaching out to Paddle, please contact us at:
+          </p>
           <p>
             📧 <a href="mailto:support@claimyourdeposit.com"><strong>support@claimyourdeposit.com</strong></a>
           </p>
-          <p>We are happy to help.</p>
 
           <hr />
 
           <h2>Important Disclaimer</h2>
           <p>
-            ClaimYourDeposit is <strong>not a law firm</strong> and does <strong>not</strong> provide legal advice.<br />
-            All documents and letters are generated automatically based on user input and public information.<br />
-            Final results are dependent on individual circumstances.
+            ClaimYourDeposit is <strong>not a law firm</strong> and does <strong>not</strong> provide legal advice. All documents are generated automatically based on user input.
           </p>
         </div>
       </div>
     </div>
   );
 }
+
 
