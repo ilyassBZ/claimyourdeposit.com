@@ -77,7 +77,7 @@ export default function TermsAndConditions() {
 
           <h2>5. Payments</h2>
           <p>
-            Payments are processed through <strong>DodoPayments</strong> as our payment processor.
+            Payments are processed through <strong>Paddle</strong> as our Merchant of Record.
           </p>
           <p>By subscribing, you agree that:</p>
           <ul>

@@ -40,10 +40,10 @@ export default function PrivacyPolicy() {
 
           <h3>1.3. Payment Information</h3>
           <p>
-            Payments are processed by <strong>DodoPayments</strong>.<br />
+            Payments are processed by <strong>Paddle</strong>.<br />
             We do <strong>not</strong> store card or bank details.
           </p>
-          <p>DodoPayments' privacy policy applies to payment data.</p>
+          <p>Paddle's privacy policy applies to payment data.</p>
 
           <h3>1.4. Usage Data</h3>
           <p>For security and performance:</p>
@@ -146,7 +146,7 @@ export default function PrivacyPolicy() {
                 <td>Authentication</td>
               </tr>
               <tr>
-                <td>DodoPayments</td>
+                <td>Paddle</td>
                 <td>Payments & billing</td>
               </tr>
               <tr>
