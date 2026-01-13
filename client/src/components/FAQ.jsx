@@ -6,7 +6,7 @@ export default function FAQ() {
   const faqs = [
     {
       question: "How does the subscription work?",
-      answer: "Start with a 7-day free trial. After the trial period, you'll be charged $45/year for ONE rental property with unlimited photo uploads, cloud storage, document template generation, and 1 document delivery via third-party postal service included. Additional deliveries are $12 each. Each additional property is $10/year. Cancel anytime during or after the trial, with 90-day archive access after cancellation."
+      answer: "Start with a 7-day free trial. After the trial period, you'll be charged $45/year for ONE rental property with unlimited photo uploads, cloud storage, document template generation, and 1 token for third-party postal dispatch utility included. Additional tokens are $12 each. Each additional property is $10/year. Cancel anytime during or after the trial, with 90-day archive access after cancellation."
     },
     {
       question: "When should I start using this tool?",
@@ -26,11 +26,11 @@ export default function FAQ() {
     },
     {
       question: "What if I need to send my documentation?",
-      answer: "You can download your PDF summary at any time for free. Your annual subscription includes 1 document delivery via third-party postal service with tracking. If you need additional deliveries, each costs $12 and includes tracking. All documents are user-generated and sent as-is. We do not provide legal advice or guarantee any outcomes."
+      answer: "You can download your PDF summary at any time for free. Your annual subscription includes 1 token for third-party postal dispatch utility with tracking. Additional tokens are $12 each. ClaimYourDeposit is a passive document-generation tool. We do not review, edit, or modify user-generated documents and are not responsible for third-party responses. Users retain 100% responsibility for the accuracy and legality of all content mailed via our third-party postal utility."
     },
     {
       question: "Can I use this for multiple properties?",
-      answer: "Yes! Your first property is $45/year (includes 1 document delivery via third-party postal service). Each additional property (like a second rental or roommate's separate lease) is only $10/year."
+      answer: "Yes! Your first property is $45/year (includes 1 token for third-party postal dispatch utility). Each additional property (like a second rental or roommate's separate lease) is only $10/year."
     },
     {
       question: "What happens to my data if I cancel?",

@@ -38,7 +38,7 @@ export default function TermsAndConditions() {
             All templates and documents are tools for your personal organization. You have full control over all content and text.
           </p>
           <p>
-            <strong>Document Delivery:</strong> All mailed documents are user-generated and sent as-is via a third-party postal service. ClaimYourDeposit does not provide legal advice or guarantee any outcomes.
+            <strong>Document Delivery:</strong> ClaimYourDeposit is a passive document-generation tool. We do not review, edit, or modify user-generated documents and are not responsible for third-party responses. Users retain 100% responsibility for the accuracy and legality of all content mailed via our third-party postal utility.
           </p>
 
           <hr />
@@ -77,7 +77,7 @@ export default function TermsAndConditions() {
 
           <h2>5. Payments</h2>
           <p>
-            Payments are processed through <strong>Paddle</strong> as our Merchant of Record.
+            Payments are processed through <strong>DodoPayments</strong> as our payment processor.
           </p>
           <p>By subscribing, you agree that:</p>
           <ul>
@@ -153,7 +153,7 @@ export default function TermsAndConditions() {
 
           <h2>11. Governing Law</h2>
           <p>
-            These Terms are governed by the laws of <strong>[Your Country]</strong>, without regard to conflict of law principles.
+            These Terms are governed by the laws of the <strong>State of Delaware</strong>, without regard to conflict of law principles.
           </p>
 
           <hr />

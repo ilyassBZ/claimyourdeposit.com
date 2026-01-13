@@ -9,13 +9,13 @@ export default function Home() {
         <div className="hero-content">
           <h1>The Smart Way to Organize Your Move-Out Records</h1>
           <p className="subheadline">
-            Save your photos, store your lease, and generate professional documentation in seconds.
+            Save your photos, store your lease, and generate organized documentation in seconds.
             A digital workspace for renters to keep track of their rental condition from day one to move-out.
             Stay organized. Keep your records safe.
           </p>
           <NewsletterForm />
           <p className="micro-copy">
-            Smart documentation. Professional organization.
+            Smart documentation. Better organization.
           </p>
         </div>
       </section>
@@ -108,7 +108,7 @@ export default function Home() {
               <span className="step-number">4</span>
               <span className="step-icon">📬</span>
               <h3>Print & Delivery Utility</h3>
-              <p>Download your PDF or use our optional document delivery via third-party postal services (1 delivery included per year, additional deliveries $12 each) with tracking.</p>
+              <p>Download your PDF or use your included token for third-party postal dispatch (1 token included per year, additional tokens $12 each) with tracking.</p>
             </div>
           </div>
         </div>
@@ -136,7 +136,7 @@ export default function Home() {
               <li>🛠️ Maintenance record tracking</li>
               <li>📝 Timeline organization tools</li>
               <li>📄 Automated document templates</li>
-              <li>📬 1 document delivery included via third-party postal service (additional deliveries $12 each)</li>
+              <li>📬 Includes 1 token for third-party postal dispatch utility (additional tokens $12 each)</li>
               <li>🔒 Secure cloud storage</li>
               <li>📊 90-day archive after cancellation</li>
             </ul>
@@ -159,7 +159,7 @@ export default function Home() {
         <div className="container">
           <h2 className="section-title">Built for Renters. Designed for Organization.</h2>
           <p className="section-subtitle">
-            Professional document templates for all 50 states
+            General-purpose templates for organizing rental records nationwide
           </p>
 
           <div className="trust-badges">
@@ -203,7 +203,7 @@ export default function Home() {
             🎁 7 days free, then $45/year per property<br />
             🔒 Secure cloud storage all year<br />
             📄 Customizable document templates when you need them<br />
-            📬 1 document delivery included (additional deliveries $12 each via third-party postal service)
+            📬 Includes 1 token for third-party postal dispatch utility (additional tokens $12 each)
           </p>
           <NewsletterForm variant="hero" />
         </div>
