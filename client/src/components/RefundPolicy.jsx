@@ -21,14 +21,14 @@ export default function RefundPolicy() {
 
           <h2>2. Eligibility for Refunds</h2>
           <p>
-            In accordance with consumer protection laws and Paddle's Buyer Terms, you may be eligible for a refund within <strong>14 days</strong> of your initial purchase. However, because ClaimYourDeposit is a digital platform that incurs costs upon use, refunds are granted only if the service has not been "consumed."
+            In accordance with consumer protection laws and Paddle's Buyer Terms, you may be eligible for a refund within <strong>14 days</strong> of your initial purchase. However, because ClaimYourDeposit is a digital SaaS platform that incurs costs upon use, refunds are granted only if the service has not been "consumed."
           </p>
           <p>A refund will be granted if:</p>
           <ul>
             <li>The request is made within 14 days of the transaction.</li>
-            <li>You have not generated more than one (1) demand letter.</li>
-            <li>You have not used the service to mail/send any documents to a landlord.</li>
-            <li>You have not exported or downloaded property data or evidence folders.</li>
+            <li>You have not generated more than one (1) document from our templates.</li>
+            <li>You have not used the mailing utility service to send any documents.</li>
+            <li>You have not exported or downloaded significant amounts of data.</li>
           </ul>
 
           <hr />
@@ -36,9 +36,9 @@ export default function RefundPolicy() {
           <h2>3. Non-Refundable Situations</h2>
           <p>We generally do not offer refunds in the following cases:</p>
           <ul>
-            <li><strong>Product Usage:</strong> Once a letter is mailed or multiple documents are generated, the service is considered "used," and the statutory right to cancel is waived.</li>
+            <li><strong>Product Usage:</strong> Once documents are mailed using our utility service or multiple templates are generated, the software is considered "used," and the statutory right to cancel is waived.</li>
             <li><strong>Technical Inability:</strong> Issues arising from a lack of technical skill or incorrect data entry by the user.</li>
-            <li><strong>Legal Outcome:</strong> We provide the tools to claim your deposit but cannot guarantee the response or legal compliance of your landlord.</li>
+            <li><strong>User Outcomes:</strong> We provide organizational tools and customizable templates but cannot guarantee any particular response from third parties.</li>
             <li><strong>Wire Transfers:</strong> Per Paddle's terms, payments made via wire transfer are non-refundable.</li>
           </ul>
 

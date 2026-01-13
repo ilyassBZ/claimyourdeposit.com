@@ -3,7 +3,7 @@ export default function PrivacyPolicy() {
     <div className="legal-page">
       <div className="legal-container">
         <h1>Privacy Policy</h1>
-        <p className="legal-updated"><em>Last updated: December 31, 2025</em></p>
+        <p className="legal-updated"><em>Last updated: January 13, 2026</em></p>
 
         <div className="legal-content">
           <p>
@@ -29,12 +29,12 @@ export default function PrivacyPolicy() {
           </p>
 
           <h3>1.2. Uploaded Content</h3>
-          <p>Data you upload to document your rental property:</p>
+          <p>Data you upload to organize your rental records:</p>
           <ul>
             <li>Images & videos</li>
             <li>Screenshots</li>
             <li>Notes and descriptions</li>
-            <li>Generated documents or letters</li>
+            <li>Generated documents from templates</li>
           </ul>
           <p>This information is stored for your personal use inside the platform.</p>
 
@@ -60,7 +60,7 @@ export default function PrivacyPolicy() {
           <p>We use your data to:</p>
           <ul>
             <li>Create and manage your account</li>
-            <li>Provide features like document storage and letter generation</li>
+            <li>Provide features like document storage and template generation</li>
             <li>Improve platform functionality</li>
             <li>Send important account or billing emails</li>
             <li>Prevent fraud, abuse, and policy violations</li>
@@ -207,6 +207,7 @@ export default function PrivacyPolicy() {
     </div>
   );
 }
+
 
 
 

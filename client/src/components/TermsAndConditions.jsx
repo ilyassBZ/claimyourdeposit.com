@@ -25,27 +25,28 @@ export default function TermsAndConditions() {
           <hr />
 
           <h2>1. The Service</h2>
-          <p>ClaimYourDeposit is an online platform for:</p>
+          <p>ClaimYourDeposit is a SaaS productivity tool for:</p>
           <ul>
-            <li>Uploading images, documents and notes about a rental property</li>
-            <li>Generating letters or templates to assist with rental deposit disputes</li>
+            <li>Uploading and storing images, documents and notes about a rental property</li>
+            <li>Organizing rental records in a digital workspace</li>
+            <li>Generating customizable document templates for personal use</li>
             <li>Managing tenant property condition records</li>
           </ul>
           <p>
-            <strong>We are NOT lawyers and do not provide legal advice.</strong><br />
-            All information provided is for documentation and guidance only.
+            <strong>We are NOT lawyers and do not provide legal advice or legal services.</strong><br />
+            All templates and documents are tools for your personal organization. You have full control over all content and text.
           </p>
 
           <hr />
 
-          <h2>2. No Legal Guarantee</h2>
-          <p>We do not guarantee that:</p>
+          <h2>2. No Guarantees</h2>
+          <p>This is a document organization and storage tool. We do not guarantee that:</p>
           <ul>
-            <li>You will recover your deposit</li>
-            <li>A landlord or agency will accept your claims</li>
-            <li>Any letter or document generated will result in a specific outcome</li>
+            <li>Any particular outcome will result from using our templates</li>
+            <li>Any party will respond to documents you create and send</li>
+            <li>The software will meet all your specific needs</li>
           </ul>
-          <p>Any action you take based on our documents is at your own responsibility.</p>
+          <p>Any action you take using documents created with our templates is your own responsibility. You control all content.</p>
 
           <hr />
 
@@ -101,10 +102,11 @@ export default function TermsAndConditions() {
           <h2>7. Prohibited Use</h2>
           <p>You may NOT use the Service to:</p>
           <ul className="prohibited-list">
-            <li>❌ Harass or threaten landlords or agencies</li>
-            <li>❌ Commit fraud or falsify documents</li>
+            <li>❌ Harass or threaten any individual or organization</li>
+            <li>❌ Create fraudulent or falsified documents</li>
             <li>❌ Upload illegal content</li>
-            <li>❌ Share login access or resell our tools</li>
+            <li>❌ Share login access or resell our software</li>
+            <li>❌ Use the service to provide legal advice to others</li>
           </ul>
 
           <hr />
@@ -113,13 +115,14 @@ export default function TermsAndConditions() {
           <p>To the maximum extent permitted by law:</p>
           <p>We are <strong>not</strong> liable for:</p>
           <ul>
-            <li>Lost deposits</li>
-            <li>Legal outcomes</li>
+            <li>Any outcomes resulting from documents you create</li>
             <li>Financial or emotional damages</li>
-            <li>Errors in documents or templates</li>
+            <li>Errors in templates you customize</li>
+            <li>Data loss due to user error</li>
+            <li>Third-party responses or actions</li>
           </ul>
           <p>
-            The Service is provided "<strong>as is</strong>" and "<strong>as available</strong>".
+            The Service is a software tool provided "<strong>as is</strong>" and "<strong>as available</strong>".
           </p>
 
           <hr />

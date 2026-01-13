@@ -27,8 +27,8 @@ export default function App() {
               ClaimYourDeposit.com
             </p>
             <p style={{ color: 'var(--red-200)', fontSize: '0.875rem', marginBottom: '12px' }}>
-              © 2025 ClaimYourDeposit. All rights reserved.<br/>
-              Get Your Security Deposit Back. Every. Single. Cent.
+              © 2026 ClaimYourDeposit. All rights reserved.<br/>
+              Digital Organization Tools for Renters.
             </p>
             <div style={{ 
               display: 'flex', 
