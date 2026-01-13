@@ -27,7 +27,7 @@ export default function RefundPolicy() {
           <ul>
             <li>The request is made within 14 days of the transaction.</li>
             <li>You have not generated more than one (1) document from our templates.</li>
-            <li>You have not used the mailing utility service to send any documents.</li>
+            <li>You have not used the document delivery utility (third-party postal service) to send any documents.</li>
             <li>You have not exported or downloaded significant amounts of data.</li>
           </ul>
 
@@ -36,9 +36,9 @@ export default function RefundPolicy() {
           <h2>3. Non-Refundable Situations</h2>
           <p>We generally do not offer refunds in the following cases:</p>
           <ul>
-            <li><strong>Product Usage:</strong> Once documents are mailed using our utility service or multiple templates are generated, the software is considered "used," and the statutory right to cancel is waived.</li>
+            <li><strong>Product Usage:</strong> Once documents are delivered using our third-party postal service utility or multiple templates are generated, the software is considered "used," and the statutory right to cancel is waived. All documents sent are user-generated and sent as-is.</li>
             <li><strong>Technical Inability:</strong> Issues arising from a lack of technical skill or incorrect data entry by the user.</li>
-            <li><strong>User Outcomes:</strong> We provide organizational tools and customizable templates but cannot guarantee any particular response from third parties.</li>
+            <li><strong>User Outcomes:</strong> We provide organizational tools and customizable templates but cannot guarantee any particular response from third parties. We do not provide legal advice.</li>
             <li><strong>Wire Transfers:</strong> Per Paddle's terms, payments made via wire transfer are non-refundable.</li>
           </ul>
 

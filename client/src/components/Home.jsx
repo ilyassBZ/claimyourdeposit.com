@@ -107,8 +107,8 @@ export default function Home() {
             <div className="step-card">
               <span className="step-number">4</span>
               <span className="step-icon">📬</span>
-              <h3>Export & Mail</h3>
-              <p>Download your PDF or use our mailing service (1 mailing included per year, additional mailings $12 each) with tracking.</p>
+              <h3>Print & Delivery Utility</h3>
+              <p>Download your PDF or use our optional document delivery via third-party postal services (1 delivery included per year, additional deliveries $12 each) with tracking.</p>
             </div>
           </div>
         </div>
@@ -136,7 +136,7 @@ export default function Home() {
               <li>🛠️ Maintenance record tracking</li>
               <li>📝 Timeline organization tools</li>
               <li>📄 Automated document templates</li>
-              <li>📬 1 document mailing included (additional mailings $12 each)</li>
+              <li>📬 1 document delivery included via third-party postal service (additional deliveries $12 each)</li>
               <li>🔒 Secure cloud storage</li>
               <li>📊 90-day archive after cancellation</li>
             </ul>
@@ -168,7 +168,7 @@ export default function Home() {
             <div className="trust-badge">📄 Customizable Templates</div>
             <div className="trust-badge">🔒 Secure Cloud Storage</div>
             <div className="trust-badge">📸 Unlimited Uploads</div>
-            <div className="trust-badge">📬 Mail Utility Option</div>
+            <div className="trust-badge">📬 Print & Delivery Utility</div>
           </div>
 
           <div className="stat-highlight">
@@ -203,7 +203,7 @@ export default function Home() {
             🎁 7 days free, then $45/year per property<br />
             🔒 Secure cloud storage all year<br />
             📄 Customizable document templates when you need them<br />
-            📬 1 document mailing included (additional mailings $12 each)
+            📬 1 document delivery included (additional deliveries $12 each via third-party postal service)
           </p>
           <NewsletterForm variant="hero" />
         </div>

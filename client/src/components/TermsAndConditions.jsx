@@ -31,10 +31,14 @@ export default function TermsAndConditions() {
             <li>Organizing rental records in a digital workspace</li>
             <li>Generating customizable document templates for personal use</li>
             <li>Managing tenant property condition records</li>
+            <li>Optional document delivery via third-party postal services</li>
           </ul>
           <p>
             <strong>We are NOT lawyers and do not provide legal advice or legal services.</strong><br />
             All templates and documents are tools for your personal organization. You have full control over all content and text.
+          </p>
+          <p>
+            <strong>Document Delivery:</strong> All mailed documents are user-generated and sent as-is via a third-party postal service. ClaimYourDeposit does not provide legal advice or guarantee any outcomes.
           </p>
 
           <hr />
