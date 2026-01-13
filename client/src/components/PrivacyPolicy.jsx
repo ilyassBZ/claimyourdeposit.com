@@ -154,6 +154,10 @@ export default function PrivacyPolicy() {
                 <td>File storage</td>
               </tr>
               <tr>
+                <td>PostGrid</td>
+                <td>Third-party postal dispatch utility</td>
+              </tr>
+              <tr>
                 <td>Email Provider (e.g. Zoho / Mailgun)</td>
                 <td>Notifications & support emails</td>
               </tr>
