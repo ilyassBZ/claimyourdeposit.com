@@ -14,14 +14,17 @@ export default function RefundPolicy() {
 
           <h2>1. Merchant of Record</h2>
           <p>
-            All payments and subscriptions on this website are securely processed by <strong>Dodo Payments</strong>, our authorized Merchant of Record. Dodo Payments is the official reseller of our services and handles all transaction-related compliance, taxes, and billing inquiries.
+            Our order process is conducted by our online reseller <strong>Paddle.com</strong>. Paddle.com is the Merchant of Record for all our orders. <strong>Paddle</strong> provides all customer service inquiries and handles returns. 
+          </p>
+          <p>
+            <em>Note: Your credit card or bank statement will show "PADDLE.NET * CLAIMYOURDEP" for this transaction.</em>
           </p>
 
           <hr />
 
           <h2>2. Eligibility for Refunds</h2>
           <p>
-            In accordance with consumer protection laws and Dodo Payments' Buyer Terms, you may be eligible for a refund within <strong>14 days</strong> of your initial purchase. However, because ClaimYourDeposit is a digital SaaS platform that incurs costs upon use, refunds are granted only if the service has not been "consumed."
+            In accordance with consumer protection laws and <a href="https://paddle.com/legal-buyers/" target="_blank" rel="noopener noreferrer"><strong>Paddle's Buyer Terms</strong></a>, you may be eligible for a refund within <strong>14 days</strong> of your initial purchase. However, because ClaimYourDeposit is a digital SaaS platform that incurs costs upon use, refunds are granted only if the service has not been "consumed."
           </p>
           <p>A refund will be granted if:</p>
           <ul>
@@ -34,26 +37,25 @@ export default function RefundPolicy() {
           <hr />
 
           <h2>3. Non-Refundable Situations</h2>
-          <p>We generally do not offer refunds in the following cases:</p>
+          <p>We generally do not offer refunds once the service is utilized:</p>
           <ul>
             <li><strong>Product Usage:</strong> Once postal dispatch tokens are used via our third-party postal utility or multiple templates are generated, the software is considered "used," and the statutory right to cancel is waived. ClaimYourDeposit is a passive document-generation tool and does not review, edit, or modify user content.</li>
             <li><strong>Technical Inability:</strong> Issues arising from a lack of technical skill or incorrect data entry by the user.</li>
-            <li><strong>User Outcomes:</strong> We provide organizational tools and customizable templates but cannot guarantee any particular response from third parties. Users retain 100% responsibility for content accuracy and legality.</li>
-            <li><strong>Wire Transfers:</strong> Per Dodo Payments' terms, payments made via wire transfer are non-refundable.</li>
+            <li><strong>User Outcomes:</strong> We provide organizational tools and templates but cannot guarantee any particular response from third parties.</li>
+            <li><strong>Wire Transfers:</strong> Per Paddle's terms, payments made via wire transfer are non-refundable.</li>
           </ul>
 
           <hr />
 
           <h2>4. How to Request a Refund</h2>
-          <p>To request a refund, please contact our support team:</p>
+          <p>To ensure your request is processed immediately, please use Paddle's automated system:</p>
           <ul>
-            <li>Email us at <a href="mailto:support@claimyourdeposit.com"><strong>support@claimyourdeposit.com</strong></a> with your Order ID.</li>
-            <li>We will assist you in coordinating the refund with Dodo Payments.</li>
+            <li>Visit <a href="https://paddle.net" target="_blank" rel="noopener noreferrer"><strong>paddle.net</strong></a>.</li>
+            <li>Provide the email address used for the purchase to view your order and request a refund.</li>
+            <li>Alternatively, you may contact our support team at <a href="mailto:support@claimyourdeposit.com"><strong>support@claimyourdeposit.com</strong></a> with your Order ID.</li>
           </ul>
         </div>
       </div>
     </div>
   );
 }
-
-
