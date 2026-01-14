@@ -153,7 +153,7 @@ export default function TermsAndConditions() {
 
           <h2>11. Governing Law</h2>
           <p>
-            These Terms are governed by the laws of the <strong>State of Delaware</strong>, without regard to conflict of law principles.
+            These Terms are governed by the laws of <strong>Morocco</strong>, without regard to conflict of law principles.
           </p>
 
           <hr />
