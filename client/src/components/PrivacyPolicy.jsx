@@ -38,12 +38,10 @@ export default function PrivacyPolicy() {
           </ul>
           <p>This information is stored for your personal use inside the platform.</p>
 
-          <h3>1.3. Payment Information</h3>
+          <h3>1.3. Payment Data</h3>
           <p>
-            Payments are processed by <strong>Paddle</strong>.<br />
-            We do <strong>not</strong> store card or bank details.
+            We do not store or process your credit card information. All payment data is collected and processed by <strong>Dodo Payments</strong>. You can view their privacy policy at <a href="https://dodopayments.com" target="_blank" rel="noopener noreferrer">dodopayments.com</a>.
           </p>
-          <p>Paddle's privacy policy applies to payment data.</p>
 
           <h3>1.4. Usage Data</h3>
           <p>For security and performance:</p>
@@ -146,7 +144,7 @@ export default function PrivacyPolicy() {
                 <td>Authentication</td>
               </tr>
               <tr>
-                <td>Paddle</td>
+                <td>Dodo Payments</td>
                 <td>Payments & billing</td>
               </tr>
               <tr>
@@ -200,7 +198,14 @@ export default function PrivacyPolicy() {
 
           <hr />
 
-          <h2>10. Contact</h2>
+          <h2>10. Governing Law</h2>
+          <p>
+            This Privacy Policy is governed by the laws of the <strong>Kingdom of Morocco</strong>.
+          </p>
+
+          <hr />
+
+          <h2>11. Contact</h2>
           <p>If you have any questions about this Privacy Policy:</p>
           <p>
             📧 <a href="mailto:support@claimyourdeposit.com"><strong>support@claimyourdeposit.com</strong></a><br />

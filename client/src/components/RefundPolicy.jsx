@@ -14,7 +14,7 @@ export default function RefundPolicy() {
 
           <h2>1. Merchant of Record</h2>
           <p>
-            All payments, taxes, and subscriptions are securely processed by <strong>Paddle</strong>, our authorized Merchant of Record. Paddle handles all customer service inquiries related to billing and returns.
+            All payments and subscriptions on this website are securely processed by <strong>Dodo Payments</strong>, our authorized Merchant of Record. Dodo Payments is the official reseller of our services and handles all transaction-related compliance, taxes, and billing inquiries.
           </p>
 
           <hr />
@@ -39,17 +39,16 @@ export default function RefundPolicy() {
             <li><strong>Product Usage:</strong> Once postal dispatch tokens are used via our third-party postal utility or multiple templates are generated, the software is considered "used," and the statutory right to cancel is waived. ClaimYourDeposit is a passive document-generation tool and does not review, edit, or modify user content.</li>
             <li><strong>Technical Inability:</strong> Issues arising from a lack of technical skill or incorrect data entry by the user.</li>
             <li><strong>User Outcomes:</strong> We provide organizational tools and customizable templates but cannot guarantee any particular response from third parties. Users retain 100% responsibility for content accuracy and legality.</li>
-            <li><strong>Wire Transfers:</strong> Per Paddle's terms, payments made via wire transfer are non-refundable.</li>
+            <li><strong>Wire Transfers:</strong> Per Dodo Payments' terms, payments made via wire transfer are non-refundable.</li>
           </ul>
 
           <hr />
 
           <h2>4. How to Request a Refund</h2>
-          <p>To ensure your request is processed immediately, please use Paddle's automated system:</p>
+          <p>To request a refund, please contact our support team:</p>
           <ul>
-            <li>Visit <a href="https://paddle.net" target="_blank" rel="noopener noreferrer"><strong>paddle.net</strong></a>.</li>
-            <li>Provide the email address used for the purchase to view your order and request a refund.</li>
-            <li>Alternatively, you may contact our support team at <a href="mailto:support@claimyourdeposit.com"><strong>support@claimyourdeposit.com</strong></a> with your Order ID, and we will assist you in coordinating with Paddle.</li>
+            <li>Email us at <a href="mailto:support@claimyourdeposit.com"><strong>support@claimyourdeposit.com</strong></a> with your Order ID.</li>
+            <li>We will assist you in coordinating the refund with Dodo Payments.</li>
           </ul>
         </div>
       </div>

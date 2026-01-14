@@ -75,9 +75,9 @@ export default function TermsAndConditions() {
 
           <hr />
 
-          <h2>5. Payments</h2>
+          <h2>5. Payment Processing</h2>
           <p>
-            Payments are processed through <strong>Paddle</strong> as our Merchant of Record.
+            By subscribing to ClaimYourDeposit, you acknowledge that the transaction is conducted with <strong>Dodo Payments</strong>, acting as the Merchant of Record. You agree to be bound by Dodo Payments' Buyer Terms and Conditions in addition to our own service terms.
           </p>
           <p>By subscribing, you agree that:</p>
           <ul>
@@ -147,13 +147,13 @@ export default function TermsAndConditions() {
             <li>Illegal use is suspected</li>
             <li>Payments fail repeatedly</li>
           </ul>
-          <p>You may cancel your subscription at any time.</p>
+          <p>You may cancel your subscription at any time through the <strong>Manage Subscription</strong> section in your account, or by emailing us at <a href="mailto:support@claimyourdeposit.com"><strong>support@claimyourdeposit.com</strong></a>.</p>
 
           <hr />
 
           <h2>11. Governing Law</h2>
           <p>
-            These Terms are governed by the laws of the <strong>State of Delaware</strong>, without regard to conflict of law principles.
+            These Terms are governed by the laws of Morocco, without regard to conflict of law principles.
           </p>
 
           <hr />
