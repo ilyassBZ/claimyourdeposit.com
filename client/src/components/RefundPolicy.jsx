@@ -21,7 +21,7 @@ export default function RefundPolicy() {
 
           <h2>2. Eligibility for Refunds</h2>
           <p>
-            In accordance with consumer protection laws and Paddle's Buyer Terms, you may be eligible for a refund within <strong>14 days</strong> of your initial purchase. However, because ClaimYourDeposit is a digital SaaS platform that incurs costs upon use, refunds are granted only if the service has not been "consumed."
+            In accordance with consumer protection laws and Dodo Payments' Buyer Terms, you may be eligible for a refund within <strong>14 days</strong> of your initial purchase. However, because ClaimYourDeposit is a digital SaaS platform that incurs costs upon use, refunds are granted only if the service has not been "consumed."
           </p>
           <p>A refund will be granted if:</p>
           <ul>
